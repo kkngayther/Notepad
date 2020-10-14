@@ -1,0 +1,20 @@
+C:\UIT\C#\Form_Notepad\Form_Notepad\bin\Debug\Form_Notepad.exe.config
+C:\UIT\C#\Form_Notepad\Form_Notepad\bin\Debug\Form_Notepad.exe
+C:\UIT\C#\Form_Notepad\Form_Notepad\bin\Debug\Form_Notepad.pdb
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.csprojAssemblyReference.cache
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.Form1.resources
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.Properties.Resources.resources
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.csproj.GenerateResource.cache
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.csproj.CoreCompileInputs.cache
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.exe
+C:\UIT\C#\Form_Notepad\Form_Notepad\obj\Debug\Form_Notepad.pdb
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\bin\Debug\Form_Notepad.exe.config
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\bin\Debug\Form_Notepad.exe
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\bin\Debug\Form_Notepad.pdb
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.csprojAssemblyReference.cache
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.Form1.resources
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.Properties.Resources.resources
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.csproj.GenerateResource.cache
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.csproj.CoreCompileInputs.cache
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.exe
+C:\UIT\C#\18521536_Lê Anh Triều_BT Thực hành 1\Form_Notepad\obj\Debug\Form_Notepad.pdb
